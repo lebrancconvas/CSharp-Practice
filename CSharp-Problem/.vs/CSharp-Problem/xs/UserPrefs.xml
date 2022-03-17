@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{133DCEF6-08BB-4053-A36F-C33AC3AB668F}|Default">
+  <MonoDevelop.Ide.ItemProperties.CSharp-Problem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharp-Problem/Playground/ValueReferenceType.cs">
+    <Files>
+      <File FileName="CSharp-Problem/Program.cs" Line="9" Column="13" />
+      <File FileName="CSharp-Problem/Playground/Solution01.cs" Line="21" Column="45" />
+      <File FileName="CSharp-Problem/Playground/ValueReferenceType.cs" Line="22" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharp-Problem" expanded="True">
+            <Node name="CSharp-Problem" expanded="True">
+              <Node name="Playground" expanded="True">
+                <Node name="ValueReferenceType.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

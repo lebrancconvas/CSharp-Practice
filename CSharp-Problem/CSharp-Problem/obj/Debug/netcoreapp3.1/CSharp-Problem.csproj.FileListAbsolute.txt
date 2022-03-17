@@ -1,0 +1,13 @@
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-problem/CSharp-Problem/CSharp-Problem/bin/Debug/netcoreapp3.1/CSharp-Problem.deps.json
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-problem/CSharp-Problem/CSharp-Problem/bin/Debug/netcoreapp3.1/CSharp-Problem.runtimeconfig.json
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-problem/CSharp-Problem/CSharp-Problem/bin/Debug/netcoreapp3.1/CSharp-Problem.runtimeconfig.dev.json
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-problem/CSharp-Problem/CSharp-Problem/bin/Debug/netcoreapp3.1/CSharp-Problem.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-problem/CSharp-Problem/CSharp-Problem/bin/Debug/netcoreapp3.1/CSharp-Problem.pdb
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-problem/CSharp-Problem/CSharp-Problem/obj/Debug/netcoreapp3.1/CSharp-Problem.csproj.AssemblyReference.cache
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-problem/CSharp-Problem/CSharp-Problem/obj/Debug/netcoreapp3.1/CSharp-Problem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-problem/CSharp-Problem/CSharp-Problem/obj/Debug/netcoreapp3.1/CSharp-Problem.AssemblyInfoInputs.cache
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-problem/CSharp-Problem/CSharp-Problem/obj/Debug/netcoreapp3.1/CSharp-Problem.AssemblyInfo.cs
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-problem/CSharp-Problem/CSharp-Problem/obj/Debug/netcoreapp3.1/CSharp-Problem.csproj.CoreCompileInputs.cache
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-problem/CSharp-Problem/CSharp-Problem/obj/Debug/netcoreapp3.1/CSharp-Problem.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-problem/CSharp-Problem/CSharp-Problem/obj/Debug/netcoreapp3.1/CSharp-Problem.pdb
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-problem/CSharp-Problem/CSharp-Problem/obj/Debug/netcoreapp3.1/CSharp-Problem.genruntimeconfig.cache
